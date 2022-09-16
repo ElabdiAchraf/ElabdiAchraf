@@ -1,4 +1,6 @@
 
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="achraf-el-abdi-112a7a202" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/achraf-el-abdi-112a7a202?trk=profile-badge">Achraf EL ABDI</a></div>
+
 ![Software   DevOps Engineer (5)](https://user-images.githubusercontent.com/75706371/189548585-96a92c1d-a2ef-4672-8715-ea7393955e25.png)
 
 
@@ -13,3 +15,4 @@ Dedicated and efficient software engineer with passion for building and optimazi
 - awareness of devOps and Agile principles.
 
 
+              
